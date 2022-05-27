@@ -1,9 +1,9 @@
  # -*- coding: utf-8 -*-
 import cv2
 import numpy as np
-import stereoconfig_040_2   #导入相机标定的参数
-import pcl
-import pcl.pcl_visualization
+import stereo.stereoconfig_040_2   #导入相机标定的参数
+#import pcl
+#import pcl.pcl_visualization
 
 
 # 预处理
